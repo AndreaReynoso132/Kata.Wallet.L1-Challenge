@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
+    <PackageReference Include="Moq" Version="4.20.70" />
+    <PackageReference Include="MSTest.TestAdapter" Version="2.2.8" />
+    <PackageReference Include="MSTest.TestFramework" Version="2.2.8" />
+    <PackageReference Include="coverlet.collector" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kata.Wallet.Api\Kata.Wallet.Api.csproj" />
+    <ProjectReference Include="..\Kata.Wallet.Database\Kata.Wallet.Database.csproj" />
+    <ProjectReference Include="..\Kata.Wallet.Domain\Kata.Wallet.Domain.csproj" />
+    <ProjectReference Include="..\Kata.Wallet.Dtos\Kata.Wallet.Dtos.csproj" />
+    <ProjectReference Include="..\Kata.Wallet.Repository\Kata.Wallet.Repository.csproj" />
+    <ProjectReference Include="..\Kata.Wallet.Services\Kata.Wallet.Services.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1yWbCllFztU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TRABAJOS\\Source\\Repos\\Kata.Wallet.L1-Challenge\\Kata.Wallet.L1\\Kata.Wallet.Domain\\Kata.Wallet.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TRABAJOS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\TRABAJOS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\TRABAJOS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

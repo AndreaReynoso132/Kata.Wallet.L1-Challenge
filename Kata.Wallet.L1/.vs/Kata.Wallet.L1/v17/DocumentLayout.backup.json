@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivanm\\source\\repos\\Challenge\\Kata.Wallet.L1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D74A6B0-08FE-41C6-A6F4-0CB3416F4518}|Kata.Wallet.Services\\Kata.Wallet.Services.csproj|c:\\users\\ivanm\\source\\repos\\challenge\\kata.wallet.l1\\kata.wallet.services\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D74A6B0-08FE-41C6-A6F4-0CB3416F4518}|Kata.Wallet.Services\\Kata.Wallet.Services.csproj|solutionrelative:kata.wallet.services\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CC6D71-C54E-486B-AA43-95EA1AAF7279}|Kata.Wallet.Api\\Kata.Wallet.Api.csproj|c:\\users\\ivanm\\source\\repos\\challenge\\kata.wallet.l1\\kata.wallet.api\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CC6D71-C54E-486B-AA43-95EA1AAF7279}|Kata.Wallet.Api\\Kata.Wallet.Api.csproj|solutionrelative:kata.wallet.api\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD49DB53-F88D-4D2B-BC68-96AE0F6A8986}|Kata.Wallet.Domain\\Kata.Wallet.Domain.csproj|c:\\users\\ivanm\\source\\repos\\challenge\\kata.wallet.l1\\kata.wallet.domain\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD49DB53-F88D-4D2B-BC68-96AE0F6A8986}|Kata.Wallet.Domain\\Kata.Wallet.Domain.csproj|solutionrelative:kata.wallet.domain\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD49DB53-F88D-4D2B-BC68-96AE0F6A8986}|Kata.Wallet.Domain\\Kata.Wallet.Domain.csproj|c:\\users\\ivanm\\source\\repos\\challenge\\kata.wallet.l1\\kata.wallet.domain\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD49DB53-F88D-4D2B-BC68-96AE0F6A8986}|Kata.Wallet.Domain\\Kata.Wallet.Domain.csproj|solutionrelative:kata.wallet.domain\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WalletService.cs",
+              "DocumentMoniker": "C:\\Users\\ivanm\\source\\repos\\Challenge\\Kata.Wallet.L1\\Kata.Wallet.Services\\WalletService.cs",
+              "RelativeDocumentMoniker": "Kata.Wallet.Services\\WalletService.cs",
+              "ToolTip": "C:\\Users\\ivanm\\source\\repos\\Challenge\\Kata.Wallet.L1\\Kata.Wallet.Services\\WalletService.cs",
+              "RelativeToolTip": "Kata.Wallet.Services\\WalletService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:49:43.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "C:\\Users\\ivanm\\source\\repos\\Challenge\\Kata.Wallet.L1\\Kata.Wallet.Api\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "Kata.Wallet.Api\\Controllers\\WalletController.cs",
+              "ToolTip": "C:\\Users\\ivanm\\source\\repos\\Challenge\\Kata.Wallet.L1\\Kata.Wallet.Api\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "Kata.Wallet.Api\\Controllers\\WalletController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:49:26.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ivanm\\source\\repos\\Challenge\\Kata.Wallet.L1\\Kata.Wallet.Domain\\Transaction.cs",
+              "RelativeDocumentMoniker": "Kata.Wallet.Domain\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ivanm\\source\\repos\\Challenge\\Kata.Wallet.L1\\Kata.Wallet.Domain\\Transaction.cs",
+              "RelativeToolTip": "Kata.Wallet.Domain\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:48:14.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\ivanm\\source\\repos\\Challenge\\Kata.Wallet.L1\\Kata.Wallet.Domain\\Wallet.cs",
+              "RelativeDocumentMoniker": "Kata.Wallet.Domain\\Wallet.cs",
+              "ToolTip": "C:\\Users\\ivanm\\source\\repos\\Challenge\\Kata.Wallet.L1\\Kata.Wallet.Domain\\Wallet.cs",
+              "RelativeToolTip": "Kata.Wallet.Domain\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T14:47:56.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
